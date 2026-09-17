@@ -1,0 +1,28 @@
+﻿## .NET Core & Framework
+[Bb]in/
+[Oo]bj/
+publish/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio & VS Code
+.vs/
+.vscode/
+*.swp
+*~
+
+## Logs & Temp
+*.log
+*.tmp
+_ReSharper*/
+*.DotSettings.user
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/

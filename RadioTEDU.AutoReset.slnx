@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RadioTEDU.AutoReset/RadioTEDU.AutoReset.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RadioTEDU.AutoReset.Tests/RadioTEDU.AutoReset.Tests.csproj" />
+  </Folder>
+</Solution>
